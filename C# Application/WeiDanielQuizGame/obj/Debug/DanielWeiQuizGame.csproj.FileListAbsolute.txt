@@ -1,0 +1,38 @@
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\bin\Debug\DanielWeiQuizGame.exe.config
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\bin\Debug\DanielWeiQuizGame.exe
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\bin\Debug\DanielWeiQuizGame.pdb
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\obj\Debug\DanielWeiQuizGame.csprojAssemblyReference.cache
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\obj\Debug\DanielWeiQuizGame.Form1.resources
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\obj\Debug\DanielWeiQuizGame.Properties.Resources.resources
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\obj\Debug\DanielWeiQuizGame.csproj.GenerateResource.cache
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\obj\Debug\DanielWeiQuizGame.exe
+C:\Users\danwe\Documents\DanielWeiQuizGame\DanielWeiQuizGame\obj\Debug\DanielWeiQuizGame.pdb
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.exe.config
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.exe
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.pdb
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csprojAssemblyReference.cache
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.Form1.resources
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.Properties.Resources.resources
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csproj.GenerateResource.cache
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.exe
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v2\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.pdb
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.exe.config
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.exe
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.pdb
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csprojAssemblyReference.cache
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.Form1.resources
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.Properties.Resources.resources
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csproj.GenerateResource.cache
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.exe
+C:\Users\danwe\Downloads\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.pdb
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.exe.config
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.exe
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\bin\Debug\DanielWeiQuizGame.pdb
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csprojAssemblyReference.cache
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.Form1.resources
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.Properties.Resources.resources
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csproj.GenerateResource.cache
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.exe
+C:\Users\danwei002\Downloads\DanielWeiQuizGame v4\DanielWeiQuizGame v3\DanielWeiQuizGame v2\obj\Debug\DanielWeiQuizGame.pdb
